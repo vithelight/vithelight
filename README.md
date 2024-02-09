@@ -6,7 +6,7 @@
 <p align="center">
 <br>
     <i>
-        I'm Vithel (alias), and I'm currently learning Backend.<br>
+        I'm Vi (alias), and I'm currently learning Backend.<br>
         I'd be happy to collaborate on interesting and creative projects.<br>
     </i><br>
 </p>
